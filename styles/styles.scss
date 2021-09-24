@@ -1,0 +1,162 @@
+.displayF {
+  display: flex;
+}
+.flex-directionC {
+  flex-direction: column;
+}
+.justify-contentC {
+  justify-content: center;
+}
+.align-itemsC {
+  align-items: center;
+}
+.padding0 {
+  padding: 0;
+}
+.margin0 {
+  margin: 0;
+}
+.justify-contentB {
+  justify-content:space-between;
+}
+.justify-contentE {
+  justify-content: flex-end;
+}
+.justify-contentS {
+  justify-content: flex-start;
+}
+.flex-wrapW {
+  flex-wrap: wrap;
+}
+.align-itemsE {
+  align-items: flex-end;
+}
+.align-itemsS {
+  align-items: flex-start;
+}
+.align-contentB {
+  align-content: space-between;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+input ,
+button {
+  outline: none;
+}
+li {
+  list-style: none;
+}
+.marginA {
+  margin: 0px auto;
+}
+/* #ifdef MP-WEIXIN */
+.cc-search{
+	background: #f85e22 !important;
+	height: 40rpx !important;
+	align-items: flex-end !important;
+}
+.cc-search-content{
+	background: white;
+	width: 400rpx;
+	height: 60rpx;
+}
+.cc-nav-bar{
+		height: 60rpx !important;
+	}
+	.weixinSearch{
+		.cc-search{
+			background: white!important;
+			width: 500rpx;
+		}
+	}
+	.weixin_search{
+		.cc-search{
+			background: #f8f8f8!important;
+			align-items:center !important;
+			.cc-search-content{
+				background: white !important;
+			}
+		}
+	}
+	.homesearch{
+		.cc-search{
+			background: white !important;
+		}
+	}
+/* #endif */
+/* #ifdef H5 */
+.cc-search{
+	background: #f85e22 !important;
+	height: 75rpx !important;
+}
+.cc-search-content{
+	background: white ;
+	width: 500rpx;
+	height: 80rpx;
+}
+.H5_search1{
+	.cc-search-content{
+		background: white !important;
+		height: 65rpx !important;
+	}
+}
+.homesearch{
+	.cc-search{
+		background: white !important;
+	}
+}
+/* #endif */
+.uni-page-body{
+	height: 100% !important;
+}
+.inpt{
+	.cc-cell{
+		background-color: #eeeeee !important;
+		font-size: 16px !important;
+	}
+	.cc-field-input{
+			background-color: #eeeeee !important;
+			font-size: 16px !important;
+		}
+}
+.cc-address-list-disabled-text {
+	display: none;
+}
+.flex1{
+	width: 400rpx;
+	height: 200rpx;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.flex2{
+	font-size: 12px;
+	background-color: white;
+	border-radius: 10rpx;
+	padding: 10rpx;
+}
+/* #ifdef H5 */
+.foot{
+	.cc-search{
+		background: white !important;
+	}
+	.cc-button{
+		height: 80rpx !important;
+	}
+}
+/* #endif */
+/* #ifdef MP-WEIXIN */
+.foot{
+	.cc-search{
+		background: white !important;
+		margin-top: 20rpx;
+	}
+	.cc-button{
+		height: 80rpx !important;
+	}
+}
+/* #endif */

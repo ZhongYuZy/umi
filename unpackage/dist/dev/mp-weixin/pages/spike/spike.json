@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "秒杀活动",
+  "usingComponents": {
+    "cc-progress": "/node-modules/cc-ui-uni-app/components/cc-progress/cc-progress"
+  }
+}

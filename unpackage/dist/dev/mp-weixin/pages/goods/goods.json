@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "小米left",
+  "usingComponents": {
+    "cc-search": "/node-modules/cc-ui-uni-app/components/cc-search/cc-search"
+  }
+}

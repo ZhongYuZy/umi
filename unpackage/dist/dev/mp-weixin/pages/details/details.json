@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-sticky": "/node-modules/cc-ui-uni-app/components/cc-sticky/cc-sticky",
+    "cc-nav-bar": "/node-modules/cc-ui-uni-app/components/cc-nav-bar/cc-nav-bar",
+    "cc-popup": "/node-modules/cc-ui-uni-app/components/cc-popup/cc-popup",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button",
+    "cc-goods-action": "/node-modules/cc-ui-uni-app/components/cc-goods-action/cc-goods-action",
+    "details-one": "/components/datails/detailsOne/detailsOne",
+    "details-two": "/components/datails/detailsTwo/detailsTwo",
+    "details-three": "/components/datails/detailsThree/detailsThree",
+    "details-four": "/components/datails/detailsFour/detailsFour"
+  }
+}

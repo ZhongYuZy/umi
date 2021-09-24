@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "新增收货地址",
+  "usingComponents": {
+    "cc-address-edit": "/node-modules/cc-ui-uni-app/components/cc-address-edit/cc-address-edit"
+  }
+}

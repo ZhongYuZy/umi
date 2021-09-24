@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cc-rate": "/node-modules/cc-ui-uni-app/components/cc-rate/cc-rate"
+  },
+  "component": true
+}

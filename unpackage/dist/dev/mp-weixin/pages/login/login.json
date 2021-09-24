@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "小米left",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-field": "/node-modules/cc-ui-uni-app/components/cc-field/cc-field",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button"
+  }
+}

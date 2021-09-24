@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-sticky": "/node-modules/cc-ui-uni-app/components/cc-sticky/cc-sticky",
+    "cc-search": "/node-modules/cc-ui-uni-app/components/cc-search/cc-search",
+    "cc-swiper": "/node-modules/cc-ui-uni-app/components/cc-swiper/cc-swiper",
+    "home-one": "/components/homeOne/homeOne",
+    "home-two": "/components/homeTwo/homeTwo"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "cc-sticky": "/node-modules/cc-ui-uni-app/components/cc-sticky/cc-sticky",
+    "cc-mask": "/node-modules/cc-ui-uni-app/components/cc-mask/cc-mask"
+  },
+  "component": true
+}

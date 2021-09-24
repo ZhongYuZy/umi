@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "确定订单",
+  "usingComponents": {
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button",
+    "cc-password-input": "/node-modules/cc-ui-uni-app/components/cc-password-input/cc-password-input"
+  }
+}

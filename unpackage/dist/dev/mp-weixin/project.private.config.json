@@ -1,0 +1,30 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/xiaomihome/xiaomihome",
+          "pathName": "pages/xiaomihome/xiaomihome",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/customer/customer",
+          "pathName": "pages/customer/customer",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
